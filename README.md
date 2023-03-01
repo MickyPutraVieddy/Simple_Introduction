@@ -1,6 +1,6 @@
-# simple_store
+# simple_Introduction
 
-A new Flutter project.
+Simple Introduction Screen using flutter.
 
 ## Getting Started
 
